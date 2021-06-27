@@ -16,3 +16,5 @@ Barebones Svelte template I use for doing some front-endsky
 
 **Side note:**
 Be sure to check your terminal where you ran `npm run dev` to see which port your server aka localhost is running on. If you already have stuff running on port 5000 then your app will be running on another port for you newbies out there wondering why it's not on port 5000.
+
+4. https://bit.ly/svelte-is-awesome
