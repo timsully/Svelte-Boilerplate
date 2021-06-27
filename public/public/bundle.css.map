@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "../App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n  let age = 24;\n  let name = 'Tim';\n\n  function incrementAge() {\n    age += 1;\n  }\n\n</script>\n\n<h1>Hello {name}, my age is {age}!</h1>\n<button on:click={incrementAge}>Change Age</button>\n\n<style>\n  h1 {\n    color: blue;\n  }\n</style>\n"
+  ],
+  "names": [],
+  "mappings": "AAcE,EAAE,cAAC,CAAC,AACF,KAAK,CAAE,IAAI,AACb,CAAC"
+}
